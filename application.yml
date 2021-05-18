@@ -1,6 +1,4 @@
 # COMMON APPLICATION PROPERTIES
-eric:
-  val1: Configured by Azure Spring Cloud
 server:
   # start services on random port by default
   port: 0
