@@ -1,6 +1,6 @@
 # COMMON APPLICATION PROPERTIES
 eric:
-  val1: Configured by Eric
+  val1: Configured by EEEE
 server:
   # start services on random port by default
   port: 0
